@@ -1,0 +1,1 @@
+9999999999{"name": "adafruit-circuitpython-requests", "version": "2.0.3", "summary": "A requests-like library for web interfacing", "platform": null, "requires_dist": ["Adafruit-Blinka"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "RPi.GPIO", "version": "0.7.1", "summary": "A module to control Raspberry Pi GPIO channels", "platform": "", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "adafruit-circuitpython-typing", "version": "1.9.6", "summary": "Types needed for type annotation that are not in `typing`", "platform": null, "requires_dist": ["Adafruit-Blinka", "adafruit-circuitpython-busdevice", "adafruit-circuitpython-requests", "typing-extensions ~=4.0"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

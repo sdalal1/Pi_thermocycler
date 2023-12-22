@@ -1,0 +1,1 @@
+9999999999{"name": "Copreus", "version": "0.4.0", "summary": "This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT.", "platform": "", "requires_dist": ["RPi.GPIO", "pelops>=0.4.7"], "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}

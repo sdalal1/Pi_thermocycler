@@ -1,0 +1,1 @@
+9999999999{"name": "adafruit-circuitpython-max31855", "version": "3.2.21", "summary": "CircuitPython library for controlling a MAX31855 Thermocouple sensor chip.", "platform": null, "requires_dist": ["Adafruit-Blinka", "adafruit-circuitpython-busdevice"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

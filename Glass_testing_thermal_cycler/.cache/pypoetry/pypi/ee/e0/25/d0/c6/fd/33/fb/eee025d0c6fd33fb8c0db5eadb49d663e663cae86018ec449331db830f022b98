@@ -1,0 +1,1 @@
+9999999999{"name": "jsonschema", "version": "2.6.0", "summary": "An implementation of JSON Schema validation for Python", "platform": "", "requires_dist": ["functools32; python_version=='2.7'", "rfc3987; extra == 'format'", "strict-rfc3339; extra == 'format'", "webcolors; extra == 'format'"], "requires_python": null, "files": [], "_cache_version": "1.0.0"}
