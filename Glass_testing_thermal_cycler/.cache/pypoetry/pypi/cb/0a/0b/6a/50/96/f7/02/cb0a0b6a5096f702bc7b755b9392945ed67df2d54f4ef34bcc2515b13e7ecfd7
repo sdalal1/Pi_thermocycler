@@ -1,1 +1,0 @@
-9999999999{"name": "Tantamount", "version": "0.3.2", "summary": "yeT Another fiNite sTate machine with event And tiMeOUt traNsiTions", "platform": "", "requires_dist": ["AsyncScheduler>=0.2.0"], "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}

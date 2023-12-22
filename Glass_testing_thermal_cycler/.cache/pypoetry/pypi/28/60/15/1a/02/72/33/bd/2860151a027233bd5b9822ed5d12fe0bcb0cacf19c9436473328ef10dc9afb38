@@ -1,1 +1,0 @@
-9999999999{"name": "pyserial", "version": "3.5", "summary": "Python Serial Port Extension", "platform": "any", "requires_dist": ["hidapi; extra == 'cp2110'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

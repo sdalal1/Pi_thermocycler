@@ -1,1 +1,0 @@
-9999999999{"name": "adafruit-circuitpython-busdevice", "version": "5.2.6", "summary": "CircuitPython bus device classes to manage bus sharing.", "platform": null, "requires_dist": ["Adafruit-Blinka (>=7.0.0)", "adafruit-circuitpython-typing"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

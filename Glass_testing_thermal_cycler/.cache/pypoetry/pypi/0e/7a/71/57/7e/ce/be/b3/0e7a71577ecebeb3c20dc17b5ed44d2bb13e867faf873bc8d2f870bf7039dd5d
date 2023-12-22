@@ -1,1 +1,0 @@
-9999999999{"name": "AsyncScheduler", "version": "0.2.0", "summary": "A simpler asynchronous scheduler based on pythons sched.scheduler.", "platform": "", "requires_dist": null, "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}
